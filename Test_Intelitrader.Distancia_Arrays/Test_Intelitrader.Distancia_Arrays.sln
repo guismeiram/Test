@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{24FC49DE-ABE3-4794-ACD5-428823FBB4C3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "App", "App", "{BC11DA63-FA0E-402E-AB5A-20589B0BF36C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test_Intelitrader.Distancia_Arrays.App", "src\Test_Intelitrader.Distancia_Arrays.App\Test_Intelitrader.Distancia_Arrays.App.csproj", "{CC5DA93E-72F1-481E-8EA9-D7F8B606C0E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC5DA93E-72F1-481E-8EA9-D7F8B606C0E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC5DA93E-72F1-481E-8EA9-D7F8B606C0E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC5DA93E-72F1-481E-8EA9-D7F8B606C0E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC5DA93E-72F1-481E-8EA9-D7F8B606C0E7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{BC11DA63-FA0E-402E-AB5A-20589B0BF36C} = {24FC49DE-ABE3-4794-ACD5-428823FBB4C3}
+		{CC5DA93E-72F1-481E-8EA9-D7F8B606C0E7} = {BC11DA63-FA0E-402E-AB5A-20589B0BF36C}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9598A2FD-E6D4-4B31-9300-FC7BB0D367D5}
+	EndGlobalSection
+EndGlobal

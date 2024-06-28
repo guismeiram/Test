@@ -1,0 +1,132 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\guism\\Desktop\\Test_Intelitrader.Livro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5DA708F1-C60E-439B-81DC-EB152926F714}|src\\Test_Intelitrader.Livro.Core\\Test_Intelitrader.Livro.Core.csproj|c:\\users\\guism\\desktop\\test_intelitrader.livro\\src\\test_intelitrader.livro.core\\service\\livrosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DA708F1-C60E-439B-81DC-EB152926F714}|src\\Test_Intelitrader.Livro.Core\\Test_Intelitrader.Livro.Core.csproj|solutionrelative:src\\test_intelitrader.livro.core\\service\\livrosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DA708F1-C60E-439B-81DC-EB152926F714}|src\\Test_Intelitrader.Livro.Core\\Test_Intelitrader.Livro.Core.csproj|c:\\users\\guism\\desktop\\test_intelitrader.livro\\src\\test_intelitrader.livro.core\\interface\\ilivrosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DA708F1-C60E-439B-81DC-EB152926F714}|src\\Test_Intelitrader.Livro.Core\\Test_Intelitrader.Livro.Core.csproj|solutionrelative:src\\test_intelitrader.livro.core\\interface\\ilivrosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{662A5553-B9A9-40E1-A031-E33B7E69EDCF}|src\\Test_Intelitrader.Livro.App\\Test_Intelitrader.Livro.App.csproj|c:\\users\\guism\\desktop\\test_intelitrader.livro\\src\\test_intelitrader.livro.app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{662A5553-B9A9-40E1-A031-E33B7E69EDCF}|src\\Test_Intelitrader.Livro.App\\Test_Intelitrader.Livro.App.csproj|solutionrelative:src\\test_intelitrader.livro.app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DA708F1-C60E-439B-81DC-EB152926F714}|src\\Test_Intelitrader.Livro.Core\\Test_Intelitrader.Livro.Core.csproj|c:\\users\\guism\\desktop\\test_intelitrader.livro\\src\\test_intelitrader.livro.core\\model\\livros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DA708F1-C60E-439B-81DC-EB152926F714}|src\\Test_Intelitrader.Livro.Core\\Test_Intelitrader.Livro.Core.csproj|solutionrelative:src\\test_intelitrader.livro.core\\model\\livros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DA708F1-C60E-439B-81DC-EB152926F714}|src\\Test_Intelitrader.Livro.Core\\Test_Intelitrader.Livro.Core.csproj|c:\\users\\guism\\desktop\\test_intelitrader.livro\\src\\test_intelitrader.livro.core\\test_intelitrader.livro.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5DA708F1-C60E-439B-81DC-EB152926F714}|src\\Test_Intelitrader.Livro.Core\\Test_Intelitrader.Livro.Core.csproj|solutionrelative:src\\test_intelitrader.livro.core\\test_intelitrader.livro.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DA708F1-C60E-439B-81DC-EB152926F714}|src\\Test_Intelitrader.Livro.Core\\Test_Intelitrader.Livro.Core.csproj|c:\\users\\guism\\desktop\\test_intelitrader.livro\\src\\test_intelitrader.livro.core\\model\\base\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DA708F1-C60E-439B-81DC-EB152926F714}|src\\Test_Intelitrader.Livro.Core\\Test_Intelitrader.Livro.Core.csproj|solutionrelative:src\\test_intelitrader.livro.core\\model\\base\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LivrosService.cs",
+              "DocumentMoniker": "C:\\Users\\guism\\Desktop\\Test_Intelitrader.Livro\\src\\Test_Intelitrader.Livro.Core\\Service\\LivrosService.cs",
+              "RelativeDocumentMoniker": "src\\Test_Intelitrader.Livro.Core\\Service\\LivrosService.cs",
+              "ToolTip": "C:\\Users\\guism\\Desktop\\Test_Intelitrader.Livro\\src\\Test_Intelitrader.Livro.Core\\Service\\LivrosService.cs",
+              "RelativeToolTip": "src\\Test_Intelitrader.Livro.Core\\Service\\LivrosService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T17:05:54.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ILivrosService.cs",
+              "DocumentMoniker": "C:\\Users\\guism\\Desktop\\Test_Intelitrader.Livro\\src\\Test_Intelitrader.Livro.Core\\Interface\\ILivrosService.cs",
+              "RelativeDocumentMoniker": "src\\Test_Intelitrader.Livro.Core\\Interface\\ILivrosService.cs",
+              "ToolTip": "C:\\Users\\guism\\Desktop\\Test_Intelitrader.Livro\\src\\Test_Intelitrader.Livro.Core\\Interface\\ILivrosService.cs",
+              "RelativeToolTip": "src\\Test_Intelitrader.Livro.Core\\Interface\\ILivrosService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAABjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T16:05:39.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "C:\\Users\\guism\\Desktop\\Test_Intelitrader.Livro\\src\\Test_Intelitrader.Livro.Core\\Model\\Base\\Entity.cs",
+              "RelativeDocumentMoniker": "src\\Test_Intelitrader.Livro.Core\\Model\\Base\\Entity.cs",
+              "ToolTip": "C:\\Users\\guism\\Desktop\\Test_Intelitrader.Livro\\src\\Test_Intelitrader.Livro.Core\\Model\\Base\\Entity.cs",
+              "RelativeToolTip": "src\\Test_Intelitrader.Livro.Core\\Model\\Base\\Entity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T15:30:05.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Livros.cs",
+              "DocumentMoniker": "C:\\Users\\guism\\Desktop\\Test_Intelitrader.Livro\\src\\Test_Intelitrader.Livro.Core\\Model\\Livros.cs",
+              "RelativeDocumentMoniker": "src\\Test_Intelitrader.Livro.Core\\Model\\Livros.cs",
+              "ToolTip": "C:\\Users\\guism\\Desktop\\Test_Intelitrader.Livro\\src\\Test_Intelitrader.Livro.Core\\Model\\Livros.cs",
+              "RelativeToolTip": "src\\Test_Intelitrader.Livro.Core\\Model\\Livros.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAwwBQAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T15:27:11.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Test_Intelitrader.Livro.Core.csproj",
+              "DocumentMoniker": "C:\\Users\\guism\\Desktop\\Test_Intelitrader.Livro\\src\\Test_Intelitrader.Livro.Core\\Test_Intelitrader.Livro.Core.csproj",
+              "RelativeDocumentMoniker": "src\\Test_Intelitrader.Livro.Core\\Test_Intelitrader.Livro.Core.csproj",
+              "ToolTip": "C:\\Users\\guism\\Desktop\\Test_Intelitrader.Livro\\src\\Test_Intelitrader.Livro.Core\\Test_Intelitrader.Livro.Core.csproj",
+              "RelativeToolTip": "src\\Test_Intelitrader.Livro.Core\\Test_Intelitrader.Livro.Core.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-27T15:26:11.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\guism\\Desktop\\Test_Intelitrader.Livro\\src\\Test_Intelitrader.Livro.App\\Program.cs",
+              "RelativeDocumentMoniker": "src\\Test_Intelitrader.Livro.App\\Program.cs",
+              "ToolTip": "C:\\Users\\guism\\Desktop\\Test_Intelitrader.Livro\\src\\Test_Intelitrader.Livro.App\\Program.cs",
+              "RelativeToolTip": "src\\Test_Intelitrader.Livro.App\\Program.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAgwCMAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T15:25:00.82Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

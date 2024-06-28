@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{BA79DA60-167A-4136-A02F-797CF8CBB8AC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{124D9145-D4F8-423D-89EA-526913B414EE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "App", "App", "{AD2B9B38-6F1A-4CF7-8226-C027AD6E811B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test_Intelitrader.Livro.App", "src\Test_Intelitrader.Livro.App\Test_Intelitrader.Livro.App.csproj", "{662A5553-B9A9-40E1-A031-E33B7E69EDCF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test_Intelitrader.Livro.Core", "src\Test_Intelitrader.Livro.Core\Test_Intelitrader.Livro.Core.csproj", "{5DA708F1-C60E-439B-81DC-EB152926F714}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{662A5553-B9A9-40E1-A031-E33B7E69EDCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{662A5553-B9A9-40E1-A031-E33B7E69EDCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{662A5553-B9A9-40E1-A031-E33B7E69EDCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{662A5553-B9A9-40E1-A031-E33B7E69EDCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DA708F1-C60E-439B-81DC-EB152926F714}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DA708F1-C60E-439B-81DC-EB152926F714}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DA708F1-C60E-439B-81DC-EB152926F714}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DA708F1-C60E-439B-81DC-EB152926F714}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{124D9145-D4F8-423D-89EA-526913B414EE} = {BA79DA60-167A-4136-A02F-797CF8CBB8AC}
+		{AD2B9B38-6F1A-4CF7-8226-C027AD6E811B} = {BA79DA60-167A-4136-A02F-797CF8CBB8AC}
+		{662A5553-B9A9-40E1-A031-E33B7E69EDCF} = {AD2B9B38-6F1A-4CF7-8226-C027AD6E811B}
+		{5DA708F1-C60E-439B-81DC-EB152926F714} = {124D9145-D4F8-423D-89EA-526913B414EE}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {06B2EE72-6A05-421A-B897-895511E94DEB}
+	EndGlobalSection
+EndGlobal

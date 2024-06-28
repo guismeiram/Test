@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Test_Intelitrader.Livro.App/1.0.0": {
+        "dependencies": {
+          "Test_Intelitrader.Livro.Core": "1.0.0"
+        },
+        "runtime": {
+          "Test_Intelitrader.Livro.App.dll": {}
+        }
+      },
+      "Test_Intelitrader.Livro.Core/1.0.0": {
+        "runtime": {
+          "Test_Intelitrader.Livro.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Test_Intelitrader.Livro.App/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Test_Intelitrader.Livro.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

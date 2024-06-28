@@ -1,0 +1,11 @@
+C:\Users\guism\Desktop\Test_Intelitrader.Livro\src\Test_Intelitrader.Livro.Core\bin\Debug\net7.0\Test_Intelitrader.Livro.Core.deps.json
+C:\Users\guism\Desktop\Test_Intelitrader.Livro\src\Test_Intelitrader.Livro.Core\bin\Debug\net7.0\Test_Intelitrader.Livro.Core.dll
+C:\Users\guism\Desktop\Test_Intelitrader.Livro\src\Test_Intelitrader.Livro.Core\bin\Debug\net7.0\Test_Intelitrader.Livro.Core.pdb
+C:\Users\guism\Desktop\Test_Intelitrader.Livro\src\Test_Intelitrader.Livro.Core\obj\Debug\net7.0\Test_Intelitrader.Livro.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guism\Desktop\Test_Intelitrader.Livro\src\Test_Intelitrader.Livro.Core\obj\Debug\net7.0\Test_Intelitrader.Livro.Core.AssemblyInfoInputs.cache
+C:\Users\guism\Desktop\Test_Intelitrader.Livro\src\Test_Intelitrader.Livro.Core\obj\Debug\net7.0\Test_Intelitrader.Livro.Core.AssemblyInfo.cs
+C:\Users\guism\Desktop\Test_Intelitrader.Livro\src\Test_Intelitrader.Livro.Core\obj\Debug\net7.0\Test_Intelitrader.Livro.Core.csproj.CoreCompileInputs.cache
+C:\Users\guism\Desktop\Test_Intelitrader.Livro\src\Test_Intelitrader.Livro.Core\obj\Debug\net7.0\Test_Intelitrader.Livro.Core.dll
+C:\Users\guism\Desktop\Test_Intelitrader.Livro\src\Test_Intelitrader.Livro.Core\obj\Debug\net7.0\refint\Test_Intelitrader.Livro.Core.dll
+C:\Users\guism\Desktop\Test_Intelitrader.Livro\src\Test_Intelitrader.Livro.Core\obj\Debug\net7.0\Test_Intelitrader.Livro.Core.pdb
+C:\Users\guism\Desktop\Test_Intelitrader.Livro\src\Test_Intelitrader.Livro.Core\obj\Debug\net7.0\ref\Test_Intelitrader.Livro.Core.dll

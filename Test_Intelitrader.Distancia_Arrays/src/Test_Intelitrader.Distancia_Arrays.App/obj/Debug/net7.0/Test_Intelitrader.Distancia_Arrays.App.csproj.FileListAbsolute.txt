@@ -1,0 +1,14 @@
+C:\Users\guism\Desktop\Test_Intelitrader.Distancia_Arrays\src\Test_Intelitrader.Distancia_Arrays.App\bin\Debug\net7.0\Test_Intelitrader.Distancia_Arrays.App.exe
+C:\Users\guism\Desktop\Test_Intelitrader.Distancia_Arrays\src\Test_Intelitrader.Distancia_Arrays.App\bin\Debug\net7.0\Test_Intelitrader.Distancia_Arrays.App.deps.json
+C:\Users\guism\Desktop\Test_Intelitrader.Distancia_Arrays\src\Test_Intelitrader.Distancia_Arrays.App\bin\Debug\net7.0\Test_Intelitrader.Distancia_Arrays.App.runtimeconfig.json
+C:\Users\guism\Desktop\Test_Intelitrader.Distancia_Arrays\src\Test_Intelitrader.Distancia_Arrays.App\bin\Debug\net7.0\Test_Intelitrader.Distancia_Arrays.App.dll
+C:\Users\guism\Desktop\Test_Intelitrader.Distancia_Arrays\src\Test_Intelitrader.Distancia_Arrays.App\bin\Debug\net7.0\Test_Intelitrader.Distancia_Arrays.App.pdb
+C:\Users\guism\Desktop\Test_Intelitrader.Distancia_Arrays\src\Test_Intelitrader.Distancia_Arrays.App\obj\Debug\net7.0\Test_Intelitrader.Distancia_Arrays.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guism\Desktop\Test_Intelitrader.Distancia_Arrays\src\Test_Intelitrader.Distancia_Arrays.App\obj\Debug\net7.0\Test_Intelitrader.Distancia_Arrays.App.AssemblyInfoInputs.cache
+C:\Users\guism\Desktop\Test_Intelitrader.Distancia_Arrays\src\Test_Intelitrader.Distancia_Arrays.App\obj\Debug\net7.0\Test_Intelitrader.Distancia_Arrays.App.AssemblyInfo.cs
+C:\Users\guism\Desktop\Test_Intelitrader.Distancia_Arrays\src\Test_Intelitrader.Distancia_Arrays.App\obj\Debug\net7.0\Test_Intelitrader.Distancia_Arrays.App.csproj.CoreCompileInputs.cache
+C:\Users\guism\Desktop\Test_Intelitrader.Distancia_Arrays\src\Test_Intelitrader.Distancia_Arrays.App\obj\Debug\net7.0\Test_Intelitrader.Distancia_Arrays.App.dll
+C:\Users\guism\Desktop\Test_Intelitrader.Distancia_Arrays\src\Test_Intelitrader.Distancia_Arrays.App\obj\Debug\net7.0\refint\Test_Intelitrader.Distancia_Arrays.App.dll
+C:\Users\guism\Desktop\Test_Intelitrader.Distancia_Arrays\src\Test_Intelitrader.Distancia_Arrays.App\obj\Debug\net7.0\Test_Intelitrader.Distancia_Arrays.App.pdb
+C:\Users\guism\Desktop\Test_Intelitrader.Distancia_Arrays\src\Test_Intelitrader.Distancia_Arrays.App\obj\Debug\net7.0\Test_Intelitrader.Distancia_Arrays.App.genruntimeconfig.cache
+C:\Users\guism\Desktop\Test_Intelitrader.Distancia_Arrays\src\Test_Intelitrader.Distancia_Arrays.App\obj\Debug\net7.0\ref\Test_Intelitrader.Distancia_Arrays.App.dll
